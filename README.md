@@ -16,9 +16,8 @@ Mini sumo robot created for participating in Robotex 2017 based on Arduino nano
 
 ###Final results:
 
-<img align="middle" width="200" height="200" alt="" src="./resources/1.JPG">
-<img align="middle" width="200" height="200" alt="" src="./resources/2.JPG">
-<img align="middle" width="200" height="200" alt="" src="./resources/4.JPG">
+|<img align="middle" width="300" height="300" alt="" src="./resources/1.JPG"> | <img align="middle" width="300" height="300" alt="" src="./resources/2.JPG">|  
+|<img align="middle" width="300" height="300" alt="" src="./resources/4.JPG"> |  
 
 ###Source code:
 
