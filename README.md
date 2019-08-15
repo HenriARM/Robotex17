@@ -16,12 +16,6 @@ Download:
 *  <a href="./resources/lower_layer.pdf">Upper layer schema</a>.</p>
 *  <a href="./resources/upper_layer.pdf">Lower layer schema</a>.</p>
 
-<object data="./resources/lower_layer.pdf" type="application/pdf" width="300px" height="300px">
-    <embed src="./resources/lower_layer.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./resources/lower_layer.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 ### PCB design using Eagle software:
 
 <img align="middle" width="300" height="300" alt="" src="./resources/3.JPG">
