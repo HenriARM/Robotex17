@@ -11,8 +11,8 @@ Mini sumo robot created for participating in Robotex 2017 based on Arduino nano
 
 ### [Schematics](./schematics)
 
-<a href="./resources/upper_layer.pdf">
-<a href="./resources/lower_layer.pdf">
+<a href="./resources/upper_layer.pdf"></a>
+<a href="./resources/lower_layer.pdf"></a>
 
 ### PCB design using Eagle software:
 
