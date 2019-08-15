@@ -11,6 +11,11 @@ Mini sumo robot created for participating in Robotex 2017 based on Arduino nano
 
 ### [Schematics](./schematics)
 
+Download:
+
+*  <a href="./resources/lower_layer.pdf">Upper layer schema</a>.</p>
+*  <a href="./resources/upper_layer.pdf">Lower layer schema</a>.</p>
+
 <object data="./resources/lower_layer.pdf" type="application/pdf" width="300px" height="300px">
     <embed src="./resources/lower_layer.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./resources/lower_layer.pdf">Download PDF</a>.</p>
